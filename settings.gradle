@@ -1,0 +1,4 @@
+rootProject.name = 'ctx-cp'
+include 'ctx-cp-service'
+include 'ctx-cp-service'
+
